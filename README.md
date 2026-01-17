@@ -1,6 +1,12 @@
 # Hi 👋 I'm Yashwanth G
 
 ⚡ **Software Engineer | ECE Graduate | Backend & Cloud Developer**
+## 📊 GitHub Stats
+
+![Yashwanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashwanthg07&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthg07&layout=compact&theme=tokyonight)
+
 
 I’m a motivated software engineer with hands-on experience in the **fintech domain**, building and maintaining **scalable backend systems**. I enjoy working on secure, high-performance applications and continuously improving my skills through real-world experience.
 
