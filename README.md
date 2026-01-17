@@ -33,15 +33,6 @@ I’m a motivated software engineer with hands-on experience in **fintech backen
 
 ---
 
-### 💼 Experience
-
-**Engineering Intern – M2P Fintech**  
-* Developed backend features for high-traffic fintech security systems  
-* Improved system reliability using monitoring dashboards  
-* Performed API testing & debugging in Agile environment  
-
----
-
 ## 📈 GitHub Summary
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanthg07)
