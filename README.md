@@ -31,10 +31,4 @@ I’m a motivated software engineer with hands-on experience in **fintech backen
 **Cloud & DevOps:** GCP, Grafana, Postman  
 **Tools:** Git, GitHub, VS Code  
 
----
-
-## 📈 GitHub Summary
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwanthg07)
-
 ⭐ Thanks for visiting!
