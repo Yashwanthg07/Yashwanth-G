@@ -1,4 +1,4 @@
-# Hi 👋 I'm Yashwanth G
+# Hi, I'm Yashwanth G
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashwanth-g20/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=flat&logo=web&logoColor=white)](https://yashwanth-portfolio-site.vercel.app/)
